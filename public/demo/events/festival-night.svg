@@ -1,0 +1,8 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="48" fill="#E9F0F2"/>
+  <rect x="70" y="84" width="1060" height="646" rx="40" fill="#124E66"/>
+  <circle cx="195" cy="210" r="84" fill="#D3D9D4" fill-opacity="0.3"/>
+  <circle cx="970" cy="170" r="64" fill="#D3D9D4" fill-opacity="0.25"/>
+  <path d="M160 560L360 360L510 490L664 284L810 442L1030 220V640H160V560Z" fill="#D3D9D4" fill-opacity="0.9"/>
+  <text x="134" y="138" fill="#D3D9D4" font-family="Arial, sans-serif" font-size="52" font-weight="700">Festival Stage</text>
+</svg>

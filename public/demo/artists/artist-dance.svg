@@ -1,0 +1,14 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="48" fill="#EEF3F4"/>
+  <rect x="72" y="72" width="1056" height="656" rx="36" fill="#D8E2E4"/>
+  <circle cx="290" cy="250" r="58" fill="#124E66"/>
+  <path d="M332 304L450 394L402 440L308 370L254 502L190 470L270 302H332Z" fill="#124E66"/>
+  <path d="M430 430L542 566L486 606L382 482L430 430Z" fill="#748D92"/>
+  <path d="M246 488L150 626L98 592L184 446L246 488Z" fill="#748D92"/>
+  <rect x="628" y="206" width="360" height="24" rx="12" fill="#124E66" fill-opacity="0.25"/>
+  <rect x="628" y="266" width="290" height="64" rx="20" fill="#124E66"/>
+  <rect x="628" y="370" width="398" height="18" rx="9" fill="#748D92"/>
+  <rect x="628" y="410" width="340" height="18" rx="9" fill="#748D92"/>
+  <rect x="628" y="494" width="180" height="44" rx="22" fill="#FFFFFF"/>
+  <text x="628" y="168" fill="#212A31" font-family="Arial, sans-serif" font-size="48" font-weight="700">Dance Crew</text>
+</svg>

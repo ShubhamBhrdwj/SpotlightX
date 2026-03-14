@@ -1,0 +1,8 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="48" fill="#F6F8F7"/>
+  <rect x="72" y="84" width="1056" height="646" rx="40" fill="#D3D9D4"/>
+  <circle cx="600" cy="240" r="120" fill="#FFFFFF"/>
+  <path d="M252 618C300 498 416 414 598 414C780 414 900 498 948 618H252Z" fill="#124E66"/>
+  <path d="M324 618C370 528 456 474 598 474C740 474 826 528 872 618H324Z" fill="#748D92"/>
+  <text x="166" y="146" fill="#212A31" font-family="Arial, sans-serif" font-size="50" font-weight="700">Wedding Venue</text>
+</svg>
